@@ -1,0 +1,7 @@
+C:\Users\LENOVO-EQP379\Desktop\C#\Aulas de C#\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\LENOVO-EQP379\Desktop\C#\Aulas de C#\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\LENOVO-EQP379\Desktop\C#\Aulas de C#\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\LENOVO-EQP379\Desktop\C#\Aulas de C#\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\LENOVO-EQP379\Desktop\C#\Aulas de C#\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-EQP379\Desktop\C#\Aulas de C#\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\LENOVO-EQP379\Desktop\C#\Aulas de C#\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb

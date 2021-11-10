@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{817A0C5A-F63B-4D55-A8D3-D6EB59FE8CBA}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Aulas</RootNamespace>
+    <AssemblyName>Aulas</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aula28.cs" />
+    <Compile Include="Aula29.cs" />
+    <Compile Include="Aula30.cs" />
+    <Compile Include="Aula31.cs" />
+    <Compile Include="Aula32.cs" />
+    <Compile Include="Aula33.cs" />
+    <Compile Include="Aula34.cs" />
+    <Compile Include="Aula35.cs" />
+    <Compile Include="Aula36.cs" />
+    <Compile Include="Aula37.cs" />
+    <Compile Include="Aula38.cs" />
+    <Compile Include="Aula39.cs" />
+    <Compile Include="Aula40.cs" />
+    <Compile Include="Aula41.cs" />
+    <Compile Include="Aula42.cs" />
+    <Compile Include="Aula43.cs" />
+    <Compile Include="Aula44.cs" />
+    <Compile Include="Aula45.cs" />
+    <Compile Include="Aula46.cs" />
+    <Compile Include="Aula47.cs" />
+    <Compile Include="Aula48.cs" />
+    <Compile Include="Aula49.cs" />
+    <Compile Include="Aula50.cs" />
+    <Compile Include="Aula51.cs" />
+    <Compile Include="Aula52.cs" />
+    <Compile Include="Aula53.cs" />
+    <Compile Include="Aula54.cs" />
+    <Compile Include="Aula55.cs" />
+    <Compile Include="Aula56.cs" />
+    <Compile Include="Aula57.cs" />
+    <Compile Include="Aula58.cs" />
+    <Compile Include="Aula59.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

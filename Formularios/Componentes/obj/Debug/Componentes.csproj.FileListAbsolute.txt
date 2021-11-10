@@ -1,0 +1,16 @@
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\bin\Debug\Componentes.exe.config
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\bin\Debug\Componentes.exe
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\bin\Debug\Componentes.pdb
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.csproj.AssemblyReference.cache
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.Form_Principal.resources
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.Properties.Resources.resources
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.csproj.GenerateResource.cache
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.exe
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.pdb
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.Form_Lista_Veiculos.resources
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.Form_CheckBox.resources
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.Form_CheckListBox.resources
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.Form_FilhoCheckBox.resources
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.Form_ComboBox.resources
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Formularios\Componentes\obj\Debug\Componentes.Form_DateTimePicker.resources

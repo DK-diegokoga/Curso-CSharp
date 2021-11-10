@@ -1,0 +1,10 @@
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Aula60\bin\Debug\Aula60.exe.config
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Aula60\bin\Debug\Aula60.exe
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Aula60\bin\Debug\Aula60.pdb
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Aula60\obj\Debug\Aula60.csproj.AssemblyReference.cache
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Aula60\obj\Debug\Aula60.Properties.Resources.resources
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Aula60\obj\Debug\Aula60.csproj.GenerateResource.cache
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Aula60\obj\Debug\Aula60.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Aula60\obj\Debug\Aula60.exe
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Aula60\obj\Debug\Aula60.pdb
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Aulas de C#\Aula60\obj\Debug\Aula60.Form_Principal.resources
