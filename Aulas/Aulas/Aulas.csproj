@@ -75,8 +75,11 @@
     <Compile Include="Aula57.cs" />
     <Compile Include="Aula58.cs" />
     <Compile Include="Aula59.cs" />
+    <Compile Include="Ex01.cs" />
+    <Compile Include="Ex02.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TesteMatheus.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
