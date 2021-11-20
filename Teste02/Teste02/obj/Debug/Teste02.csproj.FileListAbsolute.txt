@@ -1,0 +1,7 @@
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Teste02\Teste02\bin\Debug\Teste02.exe.config
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Teste02\Teste02\bin\Debug\Teste02.exe
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Teste02\Teste02\bin\Debug\Teste02.pdb
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Teste02\Teste02\obj\Debug\Teste02.csproj.AssemblyReference.cache
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Teste02\Teste02\obj\Debug\Teste02.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Teste02\Teste02\obj\Debug\Teste02.exe
+C:\Users\LENOVO-EQP379\Desktop\Aulas\C#\Teste02\Teste02\obj\Debug\Teste02.pdb
